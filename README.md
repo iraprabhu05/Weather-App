@@ -19,6 +19,13 @@ Technologies Used:
 	•	Frontend: HTML, CSS, JavaScript
 	•	API: OpenWeatherMap API 
 
- 
-![Documents - File Explorer 11_01_2025 10_40_33](https://github.com/user-attachments/assets/481d56a0-961a-4a1c-8bc9-270e61f7c4fc)
+
+![Weather App - Google Chrome 10_07_2025 10_55_23](https://github.com/user-attachments/assets/ffbc3251-d10a-4cf5-9297-689a65256ce8)
+
+![Weather App - Google Chrome 10_07_2025 10_55_31](https://github.com/user-attachments/assets/23a7564f-8677-428a-a4ff-9313b9ef47af)
+
+![Weather App - Google Chrome 10_07_2025 10_55_42](https://github.com/user-attachments/assets/815cade7-dfd8-416d-bc95-dae1d3bd67b5)
+
+
+
 
